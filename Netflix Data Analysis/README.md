@@ -1,14 +1,45 @@
-### 📌 Project Purpose  
-This project focuses on practicing dashboard design and visualization using a Netflix dataset. The goal was to improve data storytelling and Power BI reporting skills.
+# 🎬 Netflix Data Analysis  
 
-### 📊 Work Done  
-- Explored Netflix dataset structure  
-- Designed visualizations to display content distribution  
-- Created dashboard pages for overview and trends  
-- Practiced layout, KPI placement, and visual storytelling
+## 🎯 Business Problem  
+Streaming platforms need to understand content trends to improve user engagement and retention.  
 
-### 🛠 Tools Used  
-- Power BI (Visualization & Dashboard Design)
+---
 
-### 🎯 Outcome  
-Developed an interactive dashboard to visualize Netflix content trends and distribution, strengthening dashboard design and reporting skills.
+## 📊 Objective  
+Analyze Netflix dataset to identify trends in content type, genres, and release patterns.  
+
+---
+
+## 🛠 Tools Used  
+Python | Pandas | Data Visualization  
+
+---
+
+## 🔍 Key Insights  
+
+- Majority of content added in recent years  
+- Movies dominate over TV shows  
+- Certain genres are more popular globally  
+- Content addition trends increased over time  
+
+---
+
+## 💡 Business Recommendations  
+
+- Focus on high-demand genres  
+- Increase content production in trending categories  
+- Maintain balance between movies and series  
+
+---
+
+## 📈 Business Impact  
+
+Helps in:  
+- Content strategy planning  
+- Audience engagement improvement  
+- Platform growth decisions  
+
+---
+
+## 📸 Dashboard / Output  
+Netflix dashboard.png
