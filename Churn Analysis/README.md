@@ -1,59 +1,45 @@
-Customer Churn Analysis
-📌 Business Problem
+# 📉 Customer Churn Analysis  
 
-Customer churn leads to revenue loss. This project analyzes customer data to identify churn drivers and high-risk customer segments to support retention strategies.
+## 🎯 Business Problem  
+Companies often lose customers without understanding the reasons behind churn, leading to revenue loss.  
 
-📂 Dataset
+---
 
-Telco Customer Churn dataset (~7,000 customers) containing:
+## 📊 Objective  
+Analyze customer data to identify patterns and key factors contributing to churn.  
 
-Demographics
+---
 
-Subscription details
+## 🛠 Tools Used  
+Python | Pandas | Data Analysis | Visualization  
 
-Service usage
+---
 
-Billing information
+## 🔍 Key Insights  
 
-Churn status
+- Customers with lower engagement had higher churn rates  
+- Certain customer segments were more likely to leave  
+- Usage patterns strongly influenced retention  
+- Pricing/plan differences impacted churn behavior  
 
-🛠 Tools Used
+---
 
-Python (Pandas) – Data cleaning & transformation
+## 💡 Business Recommendations  
 
-SQL concepts – Analytical logic
+- Target high-risk customers with retention strategies  
+- Improve engagement for low-activity users  
+- Optimize pricing or plans based on customer segments  
 
-Power BI – Dashboard & visualization
+---
 
-🔎 Key Analysis Performed
+## 📈 Business Impact  
 
-Cleaned raw data and handled missing values
+This analysis helps businesses:  
+- Reduce churn  
+- Improve customer retention  
+- Increase long-term revenue  
 
-Corrected data types and standardized categories
+---
 
-Engineered tenure-based customer segments
-
-Analyzed churn trends by contract type, tenure, pricing, and service usage
-
-Identified high-risk customer groups
-
-📊 Dashboard Preview
-Customer Churn Overview
-
-Churn Drivers Analysis
-
-High-Risk Customer Identification
-
-🎯 Key Insights
-
-Month-to-month contracts show highest churn
-
-New customers churn more frequently
-
-Higher monthly charges correlate with higher churn
-
-Lack of tech support increases churn risk
-
-🚀 Outcome
-
-Built an interactive Power BI dashboard to track churn rate, revenue at risk, and churn drivers, enabling targeted retention strategies.
+## 📸 Dashboard / Output  
+dashboard_overview.png
