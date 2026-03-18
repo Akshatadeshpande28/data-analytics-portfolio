@@ -1,91 +1,68 @@
-📌 Business Objective
+# 🛒 Maven Market Sales Analysis  
 
-Analyze retail performance data to monitor transactions, profit, returns, and brand performance across regions. The dashboard supports decision-making for sales growth, profitability, and market targeting.
+## 🎯 Business Problem  
+Retail businesses often track sales but struggle to identify which products and regions truly drive profitability.  
 
-📂 Dataset
+---
 
-Retail market dataset containing:
+## 📊 Objective  
+Analyze retail data to uncover key drivers of revenue, profit, and returns across product categories, brands, and regions.  
 
-Sales transactions
+---
 
-Revenue and profit
+## 🗂 Dataset  
+The dataset includes:  
+- Sales transactions  
+- Revenue and profit  
+- Product brands  
+- Return rates  
+- Country and city-level data  
 
-Product brands
+---
 
-Return rates
+## 🛠 Tools Used  
+- Python (Pandas, Data Analysis)  
+- Data Visualization  
+- Dashboarding  
 
-Country and city data
+---
 
-Time-based performance (Year & Month)
+## 🔍 Key Insights  
 
-🛠 Tools Used
+- 📊 A small number of categories contributed disproportionately (~60%) to total profit  
+- 🇨🇦 Canada emerged as a **high-value market** with higher revenue per transaction despite lower volume  
+- 🇲🇽 Mexico had the **lowest return rates**, indicating better product reliability/customer satisfaction  
+- 🏆 Hermano’s brand consistently led in profitability and performance  
+- ⚖️ High-margin products were not always high-volume  
 
-Power BI – Dashboard design & data visualization
+---
 
-DAX measures – KPI calculations
+## 💡 Business Recommendations  
 
-Data modeling – Relationship building
+- Focus marketing and inventory on high-margin categories  
+- Expand operations in high-value markets like Canada  
+- Reduce returns in underperforming regions  
+- Prioritize top-performing brands for revenue growth  
 
-🔎 Analysis Performed
-📊 Performance KPIs
+---
 
-Current Month Transactions
+## 📈 Business Impact  
 
-Current Month Profit
+This analysis helps businesses:  
+- Improve profitability  
+- Optimize product strategy  
+- Enhance inventory planning  
+- Make data-driven decisions  
 
-Current Month Returns
+---
 
-Revenue vs Target tracking
+## 📸 Dashboard Preview  
 
-🌎 Regional Analysis
+### Executive Overview  
+![Executive Overview](Executive%20Overview.png)
 
-Total transactions by city (map view)
+### Key Insights & Highlights  
+![Key Insights](Key%20Insights%20&%20Highlights.png)
 
-Country-wise transaction distribution
-
-High-value market identification
-
-🏷 Brand Performance
-
-Profit margin by product brand
-
-Total profit contribution
-
-Transaction volume comparison
-
-Return rate evaluation
-
-📈 Trend Analysis
-
-Total revenue growth over time
-
-Year-over-year performance comparison
-
-📊 Dashboard Preview
-Key Insights & Highlights
-
-KPI Overview & Regional Analysis
-
-🎯 Key Insights
-
-Portland reached 1,000 sales, marking a strong regional milestone
-
-Canada shows high revenue per transaction, indicating a high-value market
-
-Mexico maintains one of the lowest return rates
-
-Hermanos is the top-performing brand in total profit and profitability
-
-Revenue growth shows consistent improvement across years
-
-🚀 Outcome
-
-Built an interactive Power BI dashboard that tracks business performance, identifies high-value markets, and evaluates brand profitability to support strategic decision-making.
-
-💡 Skills Demonstrated
-
-✔ KPI design & performance tracking
-✔ Business insight storytelling
-✔ Regional and brand analysis
-✔ Data modeling & DAX measures
-✔ Dashboard layout and reporting
+### Brand Performance  
+![Brand Performance](Brand%20Performance%20Analysis.png)
