@@ -1,68 +1,52 @@
-# 🛒 Maven Market Sales Analysis  
+# 🛒 Maven Market Sales Analysis
 
-## 🎯 Business Problem  
-Retail businesses often track sales but struggle to identify which products and regions truly drive profitability.  
-
----
-
-## 📊 Objective  
-Analyze retail data to uncover key drivers of revenue, profit, and returns across product categories, brands, and regions.  
+## 🎯 Business Problem
+Retail businesses struggle to identify which products, brands, and regions drive profitability.
 
 ---
 
-## 🗂 Dataset  
-The dataset includes:  
-- Sales transactions  
-- Revenue and profit  
-- Product brands  
-- Return rates  
-- Country and city-level data  
+## 📊 Objective
+Analyze retail sales data to uncover key drivers of revenue and profit.
 
 ---
 
-## 🛠 Tools Used  
-- Python (Pandas, Data Analysis)  
-- Data Visualization  
-- Dashboarding  
+## 🛠 Tools
+- SQL / Power BI
+- Data Analysis
 
 ---
 
-## 🔍 Key Insights  
+## 🔍 Key Insights
 
-- 📊 A small number of categories contributed disproportionately (~60%) to total profit  
-- 🇨🇦 Canada emerged as a **high-value market** with higher revenue per transaction despite lower volume  
-- 🇲🇽 Mexico had the **lowest return rates**, indicating better product reliability/customer satisfaction  
-- 🏆 Hermano’s brand consistently led in profitability and performance  
-- ⚖️ High-margin products were not always high-volume  
+- 📌 Few products contribute majority of revenue  
+- 📌 Some regions outperform others significantly  
+- 📌 Certain brands have higher profitability  
 
 ---
 
-## 💡 Business Recommendations  
-
-- Focus marketing and inventory on high-margin categories  
-- Expand operations in high-value markets like Canada  
-- Reduce returns in underperforming regions  
-- Prioritize top-performing brands for revenue growth  
+## 💡 Key Insight
+👉 Top-performing products and regions drive most of the business value.
 
 ---
 
-## 📈 Business Impact  
+## 🚀 Recommendations
 
-This analysis helps businesses:  
-- Improve profitability  
-- Optimize product strategy  
-- Enhance inventory planning  
-- Make data-driven decisions  
+- 🎯 Focus on high-performing products  
+- 📈 Optimize underperforming regions  
+- 💰 Promote profitable brands  
 
 ---
 
-## 📸 Dashboard Preview  
+## 📈 Business Impact
 
-### Executive Overview  
-![Executive Overview](Executive%20Overview.png)
+- Increased sales efficiency  
+- Better inventory planning  
+- Improved decision-making  
 
-### Key Insights & Highlights  
-![Key Insights](Key%20Insights%20&%20Highlights.png)
+---
 
-### Brand Performance  
-![Brand Performance](Brand%20Performance%20Analysis.png)
+## 📸 Dashboard Preview
+
+![Executive](Executive Overview.png)
+![Brand](Brand Performance Analysis.png)
+![Insights](Key Insights & Highlights.png)
