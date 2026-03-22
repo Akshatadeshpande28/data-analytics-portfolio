@@ -1,12 +1,12 @@
 # 📊 D2C Multi-Channel Performance Dashboard
 
 ## 🎯 Business Problem
-D2C brands selling across multiple channels (Amazon, Flipkart, Website, WhatsApp) often lack unified visibility into performance, making it difficult to track profitability, marketing efficiency, and inventory risks.
+D2C brands operating across multiple channels (Amazon, Website, Flipkart, WhatsApp) often struggle to get a unified view of performance, leading to inefficient marketing, poor profitability tracking, and inventory risks.
 
 ---
 
 ## 📊 Objective
-Build a centralized dashboard to monitor key business metrics and enable data-driven decision-making across sales, marketing, and operations.
+Build an interactive Power BI dashboard to track revenue, marketing efficiency, and profitability across channels and products.
 
 ---
 
@@ -21,55 +21,73 @@ Build a centralized dashboard to monitor key business metrics and enable data-dr
 ## 📈 Key Metrics Tracked
 
 - Total Revenue  
+- Total Orders  
 - Average Order Value (AOV)  
-- Contribution Margin %  
 - Customer Acquisition Cost (CAC)  
 - Return on Ad Spend (ROAS)  
-- Marketing Spend vs Orders  
-- Product Profitability  
-- Inventory Turnover  
+- Contribution Margin %  
+- Gross Profit  
+- Inventory Units  
 
 ---
 
-## 🔍 Key Insights
+## 📊 Dashboard Overview
 
-- 📌 Revenue is unevenly distributed across channels, with a few channels driving the majority of sales  
-- 📌 Certain SKUs generate higher margins, while others reduce overall profitability  
-- 📌 High marketing spend does not always translate to proportional revenue growth  
-- 📌 Inventory risk identified for slow-moving products  
+### 📊 Revenue & Sales Performance Overview
+![Revenue](Sales Performance Dashboard.png)
+
+**Key Insights:**
+- 📌 Revenue is concentrated in a few key channels (Amazon dominates)
+- 📌 Top products contribute majority of sales
+- 📌 Sales show fluctuations over time
+
+---
+
+### 📊 Marketing Performance & Conversion Analysis
+![Marketing]( Marketing Efficiency Dashboard.png)
+
+**Key Insights:**
+- 📌 High marketing spend does not guarantee higher returns
+- 📌 ROAS is low → indicating inefficient ad spend
+- 📌 Conversion funnel highlights drop-offs in customer journey
+- 📌 Majority customers are new vs returning
+
+---
+
+### 📊 Profitability & Inventory Insights
+![Profit](Product Profitability Dashboard.png)
+
+**Key Insights:**
+- 📌 Contribution margins vary significantly across products
+- 📌 High-margin products drive profitability
+- 📌 Inventory data highlights slow-moving stock risk
 
 ---
 
 ## 💡 Key Insight (Most Important)
-👉 Profitability is driven more by high-margin products and efficient marketing spend than total sales volume.
+👉 Profitability is driven more by high-margin products and efficient marketing spend than total revenue.
 
 ---
 
 ## 🚀 Business Recommendations
 
-- 🎯 Focus marketing budget on high-performing channels  
-- 📈 Promote high-margin SKUs to improve profitability  
-- 💰 Optimize CAC by reallocating spend to better-performing campaigns  
-- 📦 Reduce inventory risk by managing slow-moving stock  
+- 🎯 Reallocate marketing budget to high-performing channels  
+- 📈 Focus on promoting high-margin products  
+- 💰 Optimize CAC and improve ROAS  
+- 📦 Manage slow-moving inventory to reduce risk  
 
 ---
 
 ## 📈 Business Impact
 
-This dashboard helps businesses:
+This dashboard enables:
 
-- Improve marketing efficiency (better ROAS)  
-- Increase profitability through SKU optimization  
-- Make faster, data-driven decisions  
-- Monitor business performance in real-time  
-
----
-
-## 📸 Dashboard Preview
-
-![D2C Dashboard](D2C Dashboard.png)
+- Better marketing decision-making  
+- Improved profitability  
+- Data-driven inventory planning  
+- Real-time performance tracking  
 
 ---
 
-## 🔗 Project Link
-[View Full Project](https://github.com/Akshatadeshpande28/data-analytics-portfolio)
+## ⚠️ Note
+Data used is simulated for demonstration purposes.
