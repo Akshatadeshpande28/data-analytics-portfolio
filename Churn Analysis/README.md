@@ -1,61 +1,53 @@
 # 📉 Customer Churn Analysis
 
 ## 🎯 Business Problem
-Customer churn leads to significant revenue loss, and many businesses struggle to identify which customers are at risk and why they leave.
+Businesses often lose customers without understanding the reasons behind churn, leading to revenue loss and reduced customer lifetime value.
 
 ---
 
 ## 📊 Objective
-Analyze customer data to uncover key factors driving churn and identify high-risk customer segments.
+Analyze customer data to identify patterns and key factors contributing to churn.
 
 ---
 
 ## 🛠 Tools & Technologies
 - Python (Pandas, NumPy)
-- Data Cleaning & Analysis
-- Data Visualization
+- Data Analysis & Visualization
 
 ---
 
 ## 🔍 Key Insights
 
-- 📌 Customers with **low engagement levels showed significantly higher churn rates**
-- 📌 Certain customer segments contributed disproportionately to churn
-- 📌 **Usage patterns were strong indicators of retention vs churn**
-- 📌 Pricing and plan structures influenced customer retention behavior
+- 📌 Customers with low engagement showed higher churn rates  
+- 📌 Certain customer segments contributed disproportionately to churn  
+- 📌 Usage patterns strongly influenced retention  
+- 📌 Pricing and plan differences impacted churn behavior  
 
 ---
 
 ## 💡 Key Insight (Most Important)
-👉 A small segment of low-engagement customers contributes to a large portion of churn risk.
+👉 Low-engagement customers contribute significantly to overall churn risk.
 
 ---
 
 ## 🚀 Business Recommendations
 
-- 🎯 Target high-risk customers with personalized retention strategies  
+- 🎯 Target high-risk customers with retention campaigns  
 - 📈 Improve engagement for low-activity users  
-- 💰 Optimize pricing and subscription plans based on customer behavior  
-- 📊 Use predictive models to proactively reduce churn  
+- 💰 Optimize pricing strategies  
 
 ---
 
 ## 📈 Business Impact
 
-This analysis enables businesses to:
-
-- Reduce customer churn  
-- Improve customer retention  
-- Increase long-term revenue  
-- Make data-driven decisions  
+- Reduced churn  
+- Improved retention  
+- Increased long-term revenue  
 
 ---
 
-## 📸 Dashboard / Output
+## 📸 Dashboard Preview
 
-![Churn Dashboard](dashboard_overview.png)
-
----
-
-## 🔗 Project Link
-[View Full Repository](https://github.com/Akshatadeshpande28/data-analytics-portfolio/tree/main/Churn%20Analysis)
+![Overview](dashboard_overview.png)
+![Drivers](churn_drivers.png)
+![High Risk](high_risk_customers.png)
