@@ -1,53 +1,75 @@
-D2C Multi-Channel Performance Dashboard
+# 📊 D2C Multi-Channel Performance Dashboard
 
-This Power BI dashboard simulates a D2C natural products brand operating across Amazon, Flipkart, Website, and WhatsApp.
+## 🎯 Business Problem
+D2C brands selling across multiple channels (Amazon, Flipkart, Website, WhatsApp) often lack unified visibility into performance, making it difficult to track profitability, marketing efficiency, and inventory risks.
 
-🎯 Objective
+---
 
-To provide structured visibility into:
+## 📊 Objective
+Build a centralized dashboard to monitor key business metrics and enable data-driven decision-making across sales, marketing, and operations.
 
-Revenue performance
+---
 
-Customer acquisition cost (CAC)
+## 🛠 Tools & Technologies
+- Power BI  
+- DAX Measures  
+- Data Modeling  
+- KPI Dashboard Design  
 
-Return on Ad Spend (ROAS)
+---
 
-Product-level contribution margins
+## 📈 Key Metrics Tracked
 
-Inventory turnover
+- Total Revenue  
+- Average Order Value (AOV)  
+- Contribution Margin %  
+- Customer Acquisition Cost (CAC)  
+- Return on Ad Spend (ROAS)  
+- Marketing Spend vs Orders  
+- Product Profitability  
+- Inventory Turnover  
 
-📈 Key Metrics Included
+---
 
-Total Revenue
+## 🔍 Key Insights
 
-Average Order Value (AOV)
+- 📌 Revenue is unevenly distributed across channels, with a few channels driving the majority of sales  
+- 📌 Certain SKUs generate higher margins, while others reduce overall profitability  
+- 📌 High marketing spend does not always translate to proportional revenue growth  
+- 📌 Inventory risk identified for slow-moving products  
 
-Contribution Margin %
+---
 
-Customer Conversion Funnel
+## 💡 Key Insight (Most Important)
+👉 Profitability is driven more by high-margin products and efficient marketing spend than total sales volume.
 
-Marketing Spend vs Orders
+---
 
-Product Profitability Analysis
+## 🚀 Business Recommendations
 
-🛠 Tools Used
+- 🎯 Focus marketing budget on high-performing channels  
+- 📈 Promote high-margin SKUs to improve profitability  
+- 💰 Optimize CAC by reallocating spend to better-performing campaigns  
+- 📦 Reduce inventory risk by managing slow-moving stock  
 
-Power BI
+---
 
-DAX Measures
+## 📈 Business Impact
 
-Data Modeling
+This dashboard helps businesses:
 
-KPI Structuring
+- Improve marketing efficiency (better ROAS)  
+- Increase profitability through SKU optimization  
+- Make faster, data-driven decisions  
+- Monitor business performance in real-time  
 
-📌 Insights Simulated
+---
 
-Channel-level revenue distribution
+## 📸 Dashboard Preview
 
-SKU-level margin comparison
+![D2C Dashboard](D2C Dashboard.png)
 
-Repeat customer behavior
+---
 
-Stock risk identification
-
-Note: Data used is illustrative for demonstration purposes.
+## 🔗 Project Link
+[View Full Project](https://github.com/Akshatadeshpande28/data-analytics-portfolio)
